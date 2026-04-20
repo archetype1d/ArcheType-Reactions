@@ -1,0 +1,23 @@
+{
+  "events/Astrologian/AST.json": "1.0.0",
+  "events/WhiteMage/WHM.json": "1.0.0",
+  "events/Scholar/SCH.json": "1.0.0",
+  "events/Sage/SGE.json": "1.0.0",
+  "events/Warrior/WAR.json": "1.0.0",
+  "events/Paladin/PLD.json": "1.0.0",
+  "events/DarkKnight/DRK.json": "1.0.0",
+  "events/Gunbreaker/GNB.json": "1.0.0",
+  "events/Samurai/SAM.json": "1.0.0",
+  "events/Monk/MNK.json": "1.0.0",
+  "events/Reaper/RPR.json": "1.0.0",
+  "events/Dragoon/DRG.json": "1.0.0",
+  "events/Ninja/NIN.json": "1.0.0",
+  "events/Viper/VPR.json": "1.0.0",
+  "events/Machinist/MCH.json": "1.0.0",
+  "events/Dancer/DNC.json": "1.0.0",
+  "events/Bard/BRD.json": "1.0.0",
+  "events/RedMage/RDM.json": "1.0.0",
+  "events/Pictomancer/PCT.json": "1.0.0",
+  "events/Summoner/SMN.json": "1.0.0",
+  "events/BlackMage/BLM.json": "1.0.0"
+}
