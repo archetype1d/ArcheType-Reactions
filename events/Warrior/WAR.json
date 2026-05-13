@@ -1,9 +1,9 @@
 {
   "Id": "WAR",
-  "Name": "wAR",
+  "Name": "archetype-war",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-04-20T01:47:01.8130849Z",
+  "ModifiedAt": "2026-05-12T23:18:41.8831008Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-04-20T01:46:51.704259Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0241845Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042646Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242067Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042649Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242072Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042652Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242076Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042657Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242078Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042665Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242081Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -101,21 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042671Z"
-    },
-    {
-      "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
-      "Name": "Last Boss",
-      "Description": "Enables burn boss at 5% hp.",
-      "EventType": "OnTick",
-      "LogicId": "2fe93ae9-ec9c-463a-b57f-731c026de339",
-      "ThrottleSameEvent": 0.5,
-      "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
-      "Filters": {},
-      "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042676Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242084Z"
     },
     {
       "Id": "9cd8885c-cd2d-4a19-8796-cbd02a30fd38",
@@ -129,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-04-19T20:24:45.6405232Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013548Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0206972Z"
     },
     {
       "Id": "6faa69f2-c15d-4fdc-850e-76823035610f",
@@ -143,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:13:35.6221496Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042693Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242096Z"
     },
     {
       "Id": "2d80ee64-f724-4599-9e89-1e3cc4569aec",
@@ -157,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:19:19.9377126Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042697Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242099Z"
     },
     {
       "Id": "4a1a57d1-548b-493e-b997-a5f4834de436",
@@ -171,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:20:18.3895338Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042699Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242102Z"
     },
     {
       "Id": "72510d39-8a10-4784-a025-4d7880118358",
@@ -185,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-08T00:57:01.7615289Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042707Z"
+      "ModifiedAt": "2026-05-12T23:13:01.024211Z"
     },
     {
       "Id": "234d97cf-7897-447a-9f17-846f4e8b23d3",
@@ -199,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-15T23:55:07.0710264Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7042709Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0242112Z"
     },
     {
       "Id": "b0373abb-c4d5-4594-9f26-0083ad8855f5",
@@ -213,7 +199,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-04-19T19:56:43.5753387Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013571Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0206984Z"
     },
     {
       "Id": "4a055ecd-3859-40b8-8b7b-aa0bae7dfdac",
@@ -227,55 +213,13 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-04-19T20:12:42.5473397Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013574Z"
-    },
-    {
-      "Id": "c59e2af5-3f6d-495f-8896-29647e62c4e2",
-      "Name": "Anti Knockback",
-      "Description": "",
-      "EventType": "OnAllKnockback",
-      "LogicId": "e57e2bb7-a4aa-4011-8824-4ff3e66a7d38",
-      "ThrottleSameEvent": 0.5,
-      "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
-      "Filters": {},
-      "CreatedAt": "2026-04-19T20:14:19.9084895Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013579Z"
-    },
-    {
-      "Id": "5ba30905-0306-4233-9263-572d417151b7",
-      "Name": "Anti Pull in",
-      "Description": "",
-      "EventType": "OnAllPullIn",
-      "LogicId": "e57e2bb7-a4aa-4011-8824-4ff3e66a7d38",
-      "ThrottleSameEvent": 0.5,
-      "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
-      "Filters": {},
-      "CreatedAt": "2026-04-19T20:14:38.3508234Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013581Z"
-    },
-    {
-      "Id": "3143354f-f6dc-4790-91e7-1d1e3076bbca",
-      "Name": "Aggro Manager",
-      "Description": "",
-      "EventType": "OnTick",
-      "LogicId": "f042a14c-c3d9-43bb-b20b-cf243f2f9de2",
-      "ThrottleSameEvent": 0.5,
-      "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
-      "Filters": {},
-      "CreatedAt": "2026-04-19T20:32:03.5644513Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013583Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0206985Z"
     },
     {
       "Id": "1c0584cb-99c5-4462-b82e-aeffe58745e2",
       "Name": "Flash Lowest",
       "Description": "",
-      "EventType": "",
+      "EventType": "OnTick",
       "LogicId": "327f0caa-25b9-4cdb-b237-33a6b81a1b71",
       "ThrottleSameEvent": 0.5,
       "ThrottleAllEvents": 0.1,
@@ -283,7 +227,35 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-04-19T21:06:47.9410413Z",
-      "ModifiedAt": "2026-04-20T01:46:51.7013585Z"
+      "ModifiedAt": "2026-05-12T23:13:01.0206987Z"
+    },
+    {
+      "Id": "c5c849c2-a9fc-45fc-9c20-8db46f9b0809",
+      "Name": "Mistwake",
+      "Description": "",
+      "EventType": "OnTick",
+      "LogicId": "9ac9e6b2-8f05-451b-9585-57b4ff12e692",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-05-12T23:18:13.3903024Z",
+      "ModifiedAt": "2026-05-12T23:18:37.4222598Z"
+    },
+    {
+      "Id": "32384a62-44ef-43f1-8da5-15b41dafeed5",
+      "Name": "The Clyteum",
+      "Description": "",
+      "EventType": "OnTick",
+      "LogicId": "942bf7b0-114c-4d6b-94ad-ab6eb192f374",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-05-12T23:18:22.5225662Z",
+      "ModifiedAt": "2026-05-12T23:18:34.5795105Z"
     }
   ],
   "Conditions": [
@@ -5701,12 +5673,12 @@
     },
     {
       "Id": "46886ce6-7110-41d1-9ad4-f2edb4f3bd3a",
-      "Name": "Smart Invu",
+      "Name": "Smart Invuln",
       "Description": "",
       "SubConditions": [
         {
           "Id": "fc04b238-e01e-4fa3-8520-b9b4bffe4cce",
-          "Name": "Smart Invu",
+          "Name": "Smart Invuln",
           "Description": "",
           "TargetType": 0,
           "ConditionType": 5,
@@ -5927,7 +5899,7 @@
         }
       ],
       "CreatedAt": "2026-01-03T23:05:46.4761887Z",
-      "ModifiedAt": "2026-01-03T23:05:46.4761887Z",
+      "ModifiedAt": "2026-05-12T23:17:02.1769189Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -7659,222 +7631,6 @@
       "ExcludeFromTargetAccumulation": false
     },
     {
-      "Id": "a446fef8-2c70-44fc-8cc5-51ad0f0fcb81",
-      "Name": "Is Final Boss",
-      "Description": "",
-      "SubConditions": [
-        {
-          "Id": "a05ee0a4-e7a5-4b33-8cf7-7fc184355437",
-          "Name": "Thundergust Griffin",
-          "Description": "",
-          "TargetType": 1,
-          "ConditionType": 28,
-          "Parameters": {
-            "BuffParams": {
-              "StatusId": 0,
-              "StatusIds": [],
-              "UseMultipleStatuses": false,
-              "StatusLogic": 1,
-              "CheckDuration": false,
-              "MinDuration": 0.0,
-              "DurationComparison": 3,
-              "CheckStacks": false,
-              "RequiredStacks": 1,
-              "StackComparison": 3,
-              "InvertCheck": false,
-              "RequiredBuffCount": 2,
-              "BuffCountComparison": 3,
-              "StatusTargetOverrides": {},
-              "IsEnabled": true
-            },
-            "HealthParams": {
-              "Percentage": 100.0,
-              "Comparison": 1,
-              "UseRawValue": false,
-              "RawValue": 1000,
-              "IsEnabled": true
-            },
-            "DistanceParams": {
-              "Distance": 0.0,
-              "Comparison": 1,
-              "CheckLineOfSight": false,
-              "IsEnabled": true
-            },
-            "GaugeParams": {
-              "PropertyName": "",
-              "ValueType": 0,
-              "NumericValue": 0.0,
-              "BooleanValue": false,
-              "StringValue": "",
-              "Comparison": 3,
-              "IsEnabled": true
-            },
-            "MpParams": {
-              "Percentage": 100.0,
-              "Comparison": 1,
-              "UseRawValue": false,
-              "RawValue": 1000,
-              "IsEnabled": true
-            },
-            "LastAbilityParams": {
-              "AbilityId": 1,
-              "TimeThreshold": 0.5,
-              "TimeComparison": 1,
-              "IsEnabled": true
-            },
-            "LastGcdParams": {
-              "AbilityId": 1,
-              "TimeThreshold": 0.5,
-              "TimeComparison": 1,
-              "IsEnabled": true
-            },
-            "CooldownParams": {
-              "AbilityId": 1,
-              "TimeThreshold": 0.0,
-              "TimeComparison": 2,
-              "CheckCharges": false,
-              "RequiredCharges": 1,
-              "IsEnabled": true
-            },
-            "ComboParams": {
-              "ComboId": 1,
-              "TimeRemaining": 0.0,
-              "TimeComparison": 3,
-              "IsEnabled": true
-            },
-            "MovementParams": {
-              "ExpectedState": true,
-              "IsEnabled": true
-            },
-            "ChannelingParams": {
-              "IsChanneling": true,
-              "SpecificAbilityId": 0,
-              "IsEnabled": true
-            },
-            "AggroParams": {
-              "HasAggro": true,
-              "AggroPosition": 1,
-              "PositionComparison": 2,
-              "IsEnabled": true
-            },
-            "AlwaysParams": {
-              "ExpectedState": true,
-              "IsEnabled": true
-            },
-            "InCombatParams": {
-              "ExpectedState": true,
-              "IsEnabled": true
-            },
-            "ActionHighlightedParams": {
-              "ActionId": 1,
-              "IsEnabled": true
-            },
-            "IsCastingParams": {
-              "IsCasting": true,
-              "SpecificActionId": 0,
-              "CheckSpecific": false,
-              "IsEnabled": true
-            },
-            "GcdTimeRemainingParams": {
-              "TimeThreshold": 2.5,
-              "Comparison": 1,
-              "IsEnabled": true
-            },
-            "CanInterruptParams": {
-              "CanInterrupt": true,
-              "IsEnabled": true
-            },
-            "EntityIdParams": {
-              "EntityId": 0,
-              "Comparison": 2,
-              "IsEnabled": true
-            },
-            "PartyHpAverageParams": {
-              "Percentage": 50.0,
-              "Comparison": 1,
-              "IsEnabled": true
-            },
-            "PartyHpLowestParams": {
-              "Percentage": 50.0,
-              "Comparison": 1,
-              "LowestMemberCount": 4,
-              "UseLowestMemberPercentage": false,
-              "LowestMemberPercentage": 50.0,
-              "IsEnabled": true
-            },
-            "PartyHpBandsParams": {
-              "CriticalThreshold": 30.0,
-              "LowThreshold": 50.0,
-              "ModerateThreshold": 70.0,
-              "RequiredCritical": 1,
-              "RequiredLow": 3,
-              "RequiredModerate": 5,
-              "BandLogic": 0,
-              "IsEnabled": true
-            },
-            "ActionChargesParams": {
-              "ActionId": 1,
-              "RequiredCharges": 1,
-              "Comparison": 3,
-              "CheckType": 0,
-              "TimeThreshold": 0.0,
-              "TimeComparison": 1,
-              "IsEnabled": true
-            },
-            "AggroCountParams": {
-              "RequiredCount": 1,
-              "CountComparison": 3,
-              "IsEnabled": true
-            },
-            "ShieldParams": {
-              "Percentage": 100.0,
-              "Comparison": 1,
-              "UseRawValue": false,
-              "RawValue": 1000,
-              "IsEnabled": true
-            },
-            "PartyShieldAverageParams": {
-              "Percentage": 20.0,
-              "Comparison": 3,
-              "IsEnabled": true
-            },
-            "VariableParams": {
-              "VariableName": "",
-              "VariableType": 0,
-              "ExpectedBoolValue": true,
-              "ExpectedStringValue": "",
-              "ExpectedNumberValue": 0.0,
-              "Comparison": 2,
-              "StringComparison": 0,
-              "InvertCheck": false,
-              "CheckExists": false,
-              "IsEnabled": true
-            },
-            "DataIdParams": {
-              "DataId": 19045,
-              "Comparison": 2,
-              "IsEnabled": true
-            },
-            "TargetNameParams": {
-              "Name": "",
-              "Comparison": 0,
-              "IsEnabled": true
-            }
-          },
-          "RequiredTargetCount": 1,
-          "TargetCountComparison": 3,
-          "UsePercentageMode": true,
-          "RequiredTargetPercentage": 50.0,
-          "CreatedAt": "2026-04-19T20:55:40.5772647Z",
-          "ModifiedAt": "2026-04-19T20:55:40.5772648Z",
-          "ShouldUseTargetCount": false
-        }
-      ],
-      "CreatedAt": "2026-04-19T20:55:21.9036472Z",
-      "ModifiedAt": "2026-04-19T20:55:42.170906Z",
-      "ExcludeFromTargetAccumulation": false
-    },
-    {
       "Id": "a1692a33-812e-4593-a0cb-3771dd33c179",
       "Name": "Teammate Low",
       "Description": "",
@@ -8089,6 +7845,438 @@
       "CreatedAt": "2026-04-19T21:04:55.0078173Z",
       "ModifiedAt": "2026-04-19T21:05:13.4335326Z",
       "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "a446fef8-2c70-44fc-8cc5-51ad0f0fcb81",
+      "Name": "Mistwake",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "a05ee0a4-e7a5-4b33-8cf7-7fc184355437",
+          "Name": "Thundergust Griffin",
+          "Description": "",
+          "TargetType": 1,
+          "ConditionType": 28,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            },
+            "DataIdParams": {
+              "DataId": 19045,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "TargetNameParams": {
+              "Name": "",
+              "Comparison": 0,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-04-19T20:55:40.5772647Z",
+          "ModifiedAt": "2026-04-19T20:55:40.5772648Z",
+          "ShouldUseTargetCount": false
+        }
+      ],
+      "CreatedAt": "2026-04-19T20:55:21.9036472Z",
+      "ModifiedAt": "2026-05-12T23:13:20.0617696Z",
+      "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "44f98c9f-3d72-4144-8889-aceb43a42042",
+      "Name": "The Clyteum",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "b68b6e8d-5ae9-4437-96d6-612fedc217a9",
+          "Name": "Malphas",
+          "Description": "",
+          "TargetType": 1,
+          "ConditionType": 28,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            },
+            "DataIdParams": {
+              "DataId": 19496,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "TargetNameParams": {
+              "Name": "",
+              "Comparison": 0,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-05-03T05:12:09.9908821Z",
+          "ModifiedAt": "2026-05-03T05:12:09.9908821Z",
+          "ShouldUseTargetCount": false
+        }
+      ],
+      "CreatedAt": "2026-05-12T23:13:05.3204903Z",
+      "ModifiedAt": "2026-05-12T23:13:05.3204903Z",
+      "ExcludeFromTargetAccumulation": false
     }
   ],
   "Logics": [
@@ -8248,8 +8436,8 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:16:53.4840465Z",
-      "ModifiedAt": "2026-01-15T23:54:29.1339111Z",
-      "ExecuteFirstOnly": false,
+      "ModifiedAt": "2026-05-05T00:04:08.9961177Z",
+      "ExecuteFirstOnly": true,
       "Category": "Mitigation"
     },
     {
@@ -8721,6 +8909,31 @@
           "VariableOperation": 0
         },
         {
+          "Id": "837f499f-55d1-4c3c-a797-24c4164bb622",
+          "ActionId": 0,
+          "SkillbarId": "EnableJumps",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
           "Id": "edabb154-4ab1-4fa8-b477-29d444b78d6b",
           "ActionId": 0,
           "SkillbarId": "RefreshEye",
@@ -8947,7 +9160,7 @@
         }
       ],
       "CreatedAt": "2025-10-30T20:14:09.9004962Z",
-      "ModifiedAt": "2026-04-19T20:11:02.0888788Z",
+      "ModifiedAt": "2026-05-12T23:16:30.5753318Z",
       "ExecuteFirstOnly": false,
       "Category": "Holds"
     },
@@ -8964,96 +9177,12 @@
       ],
       "ActionTriggers": [
         {
-          "Id": "b86643f4-ad56-4fb3-8281-5b926281b9aa",
+          "Id": "7b992eae-0fe5-4cbf-b97c-c70b4f68bd1f",
           "ActionId": 0,
-          "SkillbarId": "SaveCD",
+          "SkillbarId": "InnerRelease",
           "TTSText": "",
           "TriggerType": 1,
-          "LogicOperator": 4,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2025-11-29T07:21:27.9692004Z",
-      "ModifiedAt": "2026-04-19T20:11:26.3078002Z",
-      "ExecuteFirstOnly": false,
-      "Category": "Holds"
-    },
-    {
-      "Id": "dd7b2b9f-2dd9-4727-bb92-aa51f5b78dbe",
-      "Name": "Group Hold",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "a51afdf9-328b-4531-87db-fd6d07e6b89a",
-        "d0612f80-1d6d-4aec-a6ed-a0bc769cf6a9",
-        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "ddb8372d-a12b-4cdf-a8e0-3d5c7ac19747",
-          "ActionId": 0,
-          "SkillbarId": "SaveCD",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 4,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2025-11-29T20:44:52.0510154Z",
-      "ModifiedAt": "2026-04-19T20:11:44.965005Z",
-      "ExecuteFirstOnly": false,
-      "Category": "Holds"
-    },
-    {
-      "Id": "2fe93ae9-ec9c-463a-b57f-731c026de339",
-      "Name": "Burn Boss",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "26b174f1-06da-4092-bb49-4af3a1491564",
-        "a446fef8-2c70-44fc-8cc5-51ad0f0fcb81",
-        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "475c74ea-178c-401c-b241-684c9a26f4fe",
-          "ActionId": 0,
-          "SkillbarId": "BurnBoss",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 4,
+          "LogicOperator": 8,
           "TargetType": 1,
           "TargetSelectionStrategy": 6,
           "SkipBuffId": 0,
@@ -9073,9 +9202,9 @@
           "VariableOperation": 0
         },
         {
-          "Id": "15b9d005-f491-4e06-b43f-4de1468e1583",
+          "Id": "db7b5012-068c-43dc-b81f-d4d9dc747555",
           "ActionId": 0,
-          "SkillbarId": "SaveCD",
+          "SkillbarId": "Infuriate",
           "TTSText": "",
           "TriggerType": 1,
           "LogicOperator": 8,
@@ -9098,8 +9227,75 @@
           "VariableOperation": 0
         }
       ],
-      "CreatedAt": "2025-11-29T20:47:33.6923885Z",
-      "ModifiedAt": "2026-04-19T21:10:31.2482972Z",
+      "CreatedAt": "2025-11-29T07:21:27.9692004Z",
+      "ModifiedAt": "2026-05-12T23:15:12.9273765Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
+    },
+    {
+      "Id": "dd7b2b9f-2dd9-4727-bb92-aa51f5b78dbe",
+      "Name": "Group Hold",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "a51afdf9-328b-4531-87db-fd6d07e6b89a",
+        "d0612f80-1d6d-4aec-a6ed-a0bc769cf6a9",
+        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "7c8638c5-6306-4477-a7a4-3ef43a14d98b",
+          "ActionId": 0,
+          "SkillbarId": "InnerRelease",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 8,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "941e37b8-8995-44e4-942e-b7801a055b12",
+          "ActionId": 0,
+          "SkillbarId": "Infuriate",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 8,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2025-11-29T20:44:52.0510154Z",
+      "ModifiedAt": "2026-05-12T23:15:35.3674832Z",
       "ExecuteFirstOnly": false,
       "Category": "Holds"
     },
@@ -9142,46 +9338,6 @@
       "ModifiedAt": "2026-01-15T23:54:49.1814393Z",
       "ExecuteFirstOnly": false,
       "Category": "Mitigation"
-    },
-    {
-      "Id": "d8213858-2118-432a-994c-2a3bcb4d9632",
-      "Name": "OnWipe",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "96978d8a-a2ba-4c92-9a43-a3040d6fad0b"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "eba6be20-1bb1-4678-8e22-1a0da6e4eb47",
-          "ActionId": 0,
-          "SkillbarId": "UseOpener",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 4,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2026-01-03T00:12:57.4594782Z",
-      "ModifiedAt": "2026-04-19T20:03:31.4479651Z",
-      "ExecuteFirstOnly": false,
-      "Category": ""
     },
     {
       "Id": "2557472d-f661-4368-9eb2-1059343fcf12",
@@ -9262,71 +9418,6 @@
       "ModifiedAt": "2026-01-15T23:54:54.2166311Z",
       "ExecuteFirstOnly": false,
       "Category": "Mitigation"
-    },
-    {
-      "Id": "62f479f7-9a5f-4d78-9b8c-6c6a2b1ceb60",
-      "Name": "Stance",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "249a8ed2-49a5-4fac-b71b-072a4e8c749d"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "44e5aebf-63e8-482f-a5fb-396723d1b8b5",
-          "ActionId": 0,
-          "SkillbarId": "TankStance",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 8,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "0c3940e9-8e42-4b78-b10f-6ff058db243b",
-          "ActionId": 32066,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 0,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2026-01-03T23:16:32.700873Z",
-      "ModifiedAt": "2026-01-03T23:18:32.2606268Z",
-      "ExecuteFirstOnly": false,
-      "Category": ""
     },
     {
       "Id": "f7147b34-a586-4934-8da8-6fc3a8adcf44",
@@ -9413,113 +9504,6 @@
       "Category": "QOL"
     },
     {
-      "Id": "e57e2bb7-a4aa-4011-8824-4ff3e66a7d38",
-      "Name": "Anti Knockbacks",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "2030caff-0ffa-4f75-8540-b8ddd113c781",
-          "ActionId": 7548,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2026-04-19T20:14:19.9084845Z",
-      "ModifiedAt": "2026-04-19T20:15:44.8905054Z",
-      "ExecuteFirstOnly": false,
-      "Category": "QOL"
-    },
-    {
-      "Id": "f042a14c-c3d9-43bb-b20b-cf243f2f9de2",
-      "Name": "Aggro Manager",
-      "Description": "",
-      "LogicType": 0,
-      "ConditionIds": [
-        "625897f9-a58b-43f6-90fc-f949a0622a59",
-        "307cb39d-0d33-4dc5-9255-413e1f2ae6f4",
-        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "a40c33d1-dfeb-49f0-9f85-179f35c5106d",
-          "ActionId": 7533,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 9,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "199f0cc2-ffe2-404d-b446-0a0b375b899d",
-          "ActionId": 46,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 0,
-          "TargetType": 9,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2026-04-19T20:32:03.5644452Z",
-      "ModifiedAt": "2026-04-19T20:32:56.2632145Z",
-      "ExecuteFirstOnly": false,
-      "Category": "QOL"
-    },
-    {
       "Id": "327f0caa-25b9-4cdb-b237-33a6b81a1b71",
       "Name": "Flash Lowest",
       "Description": "",
@@ -9559,90 +9543,248 @@
       "ModifiedAt": "2026-04-19T21:06:16.9930438Z",
       "ExecuteFirstOnly": false,
       "Category": "Mitigation"
+    },
+    {
+      "Id": "942bf7b0-114c-4d6b-94ad-ab6eb192f374",
+      "Name": "The Clyteum - Burn",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "44f98c9f-3d72-4144-8889-aceb43a42042"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "a003540f-bc4b-4b6d-ad43-2429d5ee31bf",
+          "ActionId": 0,
+          "SkillbarId": "InnerRelease",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "ac27a22c-ee87-42b9-8c28-34bf79d62d43",
+          "ActionId": 0,
+          "SkillbarId": "Infuriate",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "e1fb2ccd-3e14-4904-8c5e-9df09cacc602",
+          "ActionId": 0,
+          "SkillbarId": "BurnBoss",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-05-12T23:13:39.7967101Z",
+      "ModifiedAt": "2026-05-12T23:15:43.6254214Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
+    },
+    {
+      "Id": "9ac9e6b2-8f05-451b-9585-57b4ff12e692",
+      "Name": "Mistwake - Burn",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "a446fef8-2c70-44fc-8cc5-51ad0f0fcb81"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "3f5e2d6b-62ad-4cbf-9771-e4b7d078df60",
+          "ActionId": 0,
+          "SkillbarId": "Infuriate",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "390e2d36-ca02-452e-a12b-4bbaec498272",
+          "ActionId": 0,
+          "SkillbarId": "InnerRelease",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "5536a015-f8a7-4b5a-b246-09a6cadc8457",
+          "ActionId": 0,
+          "SkillbarId": "BurnBoss",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 4,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-05-12T23:13:48.6543707Z",
+      "ModifiedAt": "2026-05-12T23:15:52.1567839Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     }
   ],
   "QTBarConfig": {
     "BarEnabled": true,
     "LockBar": false,
-    "NumberOfColumns": 2,
-    "HorizontalSpacing": 5,
-    "VerticalSpacing": 5,
-    "ButtonWidth": 95,
-    "ButtonHeight": 30,
+    "NumberOfColumns": 1,
+    "HorizontalSpacing": 0,
+    "VerticalSpacing": 0,
+    "ButtonWidth": 120,
+    "ButtonHeight": 35,
     "Transparency": 255,
     "Items": [
       {
-        "Id": "871d6ac2-ea97-44c6-8313-4449c727fe56",
-        "Name": "Dungeons",
-        "Description": "Dungeon Mitigation",
+        "Id": "5829df65-e883-4413-a151-5b2e01103e1a",
+        "Name": "Mitigation",
+        "Description": "",
         "EventIds": [
-          "234d97cf-7897-447a-9f17-846f4e8b23d3",
-          "72510d39-8a10-4784-a025-4d7880118358",
-          "6faa69f2-c15d-4fdc-850e-76823035610f",
-          "1b066cf9-12d8-450d-866e-677d61da153d",
-          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
-          "09325808-4e89-4c09-a62e-5ea2aec65eac",
-          "732a7c9a-5487-474b-bb80-91bf92cd7e74",
           "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
-          "4a1a57d1-548b-493e-b997-a5f4834de436",
-          "4a055ecd-3859-40b8-8b7b-aa0bae7dfdac",
+          "732a7c9a-5487-474b-bb80-91bf92cd7e74",
+          "09325808-4e89-4c09-a62e-5ea2aec65eac",
+          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
+          "1b066cf9-12d8-450d-866e-677d61da153d",
           "9cd8885c-cd2d-4a19-8796-cbd02a30fd38",
+          "6faa69f2-c15d-4fdc-850e-76823035610f",
+          "4a1a57d1-548b-493e-b997-a5f4834de436",
+          "72510d39-8a10-4784-a025-4d7880118358",
+          "234d97cf-7897-447a-9f17-846f4e8b23d3",
+          "4a055ecd-3859-40b8-8b7b-aa0bae7dfdac",
           "1c0584cb-99c5-4462-b82e-aeffe58745e2"
         ],
         "Enabled": true,
         "Position": 0
       },
       {
-        "Id": "a87a1ecd-3c43-458f-a0f4-778b91f1a1c8",
+        "Id": "b8458066-29af-4034-bf26-d562ce82d1c0",
         "Name": "Variable Holds",
         "Description": "",
         "EventIds": [
           "5a47325b-00d5-4e36-8843-040393757b89",
           "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
-          "2d80ee64-f724-4599-9e89-1e3cc4569aec"
+          "2d80ee64-f724-4599-9e89-1e3cc4569aec",
+          "32384a62-44ef-43f1-8da5-15b41dafeed5",
+          "c5c849c2-a9fc-45fc-9c20-8db46f9b0809"
         ],
         "Enabled": true,
         "Position": 1
       },
       {
-        "Id": "2d402000-064b-4cd8-ac89-ec4a9d1e8ad6",
-        "Name": "Last Boss",
+        "Id": "aa4fad94-61ca-431a-900a-e1d39918ac0e",
+        "Name": "QOL Tweaks",
         "Description": "",
         "EventIds": [
-          "f97dfcaf-0ec7-4a05-aa20-89d26a48e419"
+          "b0373abb-c4d5-4594-9f26-0083ad8855f5"
         ],
         "Enabled": true,
         "Position": 2
-      },
-      {
-        "Id": "6ca72a31-3f65-414b-b682-fe334d25dbab",
-        "Name": "Sprint / KB",
-        "Description": "Auto sprint, arms length",
-        "EventIds": [
-          "b0373abb-c4d5-4594-9f26-0083ad8855f5",
-          "5ba30905-0306-4233-9263-572d417151b7",
-          "c59e2af5-3f6d-495f-8896-29647e62c4e2"
-        ],
-        "Enabled": true,
-        "Position": 3
-      },
-      {
-        "Id": "71b2fd4a-6df7-4761-b352-e95a4de19cd2",
-        "Name": "Aggro Mngr",
-        "Description": "",
-        "EventIds": [
-          "3143354f-f6dc-4790-91e7-1d1e3076bbca"
-        ],
-        "Enabled": true,
-        "Position": 4
       }
     ],
     "ToggleStates": {
-      "871d6ac2-ea97-44c6-8313-4449c727fe56": true,
-      "6ca72a31-3f65-414b-b682-fe334d25dbab": true,
-      "a87a1ecd-3c43-458f-a0f4-778b91f1a1c8": true,
-      "2d402000-064b-4cd8-ac89-ec4a9d1e8ad6": true,
-      "71b2fd4a-6df7-4761-b352-e95a4de19cd2": true
+      "5829df65-e883-4413-a151-5b2e01103e1a": true,
+      "b8458066-29af-4034-bf26-d562ce82d1c0": true,
+      "aa4fad94-61ca-431a-900a-e1d39918ac0e": true
     }
   },
   "Version": "1.0.0"
