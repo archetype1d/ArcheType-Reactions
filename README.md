@@ -21,7 +21,6 @@ There are at least 3 toggles for each class:<br>
 -QOL Tweaks<br>
     (things like out of combat sprint)<br>
 <br>
-<br>
 Tank features:<br>
 -full dungeon auto mit<br>
 -variable holds<br>
@@ -29,7 +28,6 @@ Tank features:<br>
 -auto stun enemy in mobs<br>
 -out of combat sprint<br>
 -auto burn last boss for expert maps<br>
-<br>
 <br>
 Melee features:<br>
 -auto feint<br>
@@ -40,7 +38,6 @@ Melee features:<br>
 -auto burn last boss for expert maps<br>
 	Class specifics:<br>
 	-samurai hagakure out of combat<br> 
-<br>
 <br>
 Physical Ranged features:<br>
 -automatic mitigations<br>
@@ -54,7 +51,6 @@ Physical Ranged features:<br>
 	-bard dot manager<br>
 	-dancer curing waltz distance & hp checks<br>
 <br>
-<br>
 Caster features:<br>
 -auto addle<br>
 -auto personal & party mitigation<br>
@@ -64,7 +60,6 @@ Caster features:<br>
 	Class specifics:<br>
 	-black mage dot manager<br>
 	-summoner rekindle on main tank<br>
-<br>
 <br>
 Healer features:<br>
 -auto gcd & ogcd healing<br>
