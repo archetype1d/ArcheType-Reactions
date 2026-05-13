@@ -10,7 +10,7 @@ These reactions should work well in all daily roulettes, treasure maps, fates, o
 *THESE ARE FOR GENERAL USE ONLY*<br>
 If you're looking for raid profiles, or timelines, please check out the archekilliox profiles that are hosted over on ekilliox's repository! We collaborate on the raid profiles to bring our best directly to you as quickly & accurately. <br>
 <br>
-Please visit the link below for our raid focused reaction profiles!
+Please visit the link below for our raid focused reaction profiles!<br>
 https://github.com/ekilliox/archekilliox-profiles-Reaction <br>
 <br>
 There are at least 3 toggles for each class:<br>
